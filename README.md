@@ -1,7 +1,7 @@
 # PowerBI-PwC-Virtual-Internship
 **#Introduction**
 This Repository contains a Power BI dashboard. In this Virtual Internship Experience, I worked as a Digital Accelerator for PwC. PwC aim to build innovative technology solutions that differentiate them from their competitors and digitize the business. As part of that, they made a strategic decision to invest in upskilling programs so their people could learn how to use digital tools for data visualization, as well as automation, data cleansing, and more.
-
+https://github.com/Rbhavika17/PowerBI-PwC-Virtual-Internship/blob/main/CallCenter_Task1_page-0001.jpg
 
 PwC’s client is a big telecom company, PhoneNow. In this first task, I worked with the call centre manager, Claire. She needed an accurate overview of trends in customer and agent behavior.
 **Task**
